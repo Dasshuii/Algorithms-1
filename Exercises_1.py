@@ -90,7 +90,7 @@ def saludar_4(veces, msg):
         Algoritmo utilizado al recibir entrada (veces o n) es
         (n²[por estar dentro de un for anidado] - n [por el aumento del start del range])
 
-        ∴T_4(n) = n² - n ∀>0
+        ∴T_4(n) = n² - n ∀n > 0
         ∴O(n²)
     """
 
